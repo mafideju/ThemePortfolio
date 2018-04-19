@@ -19,6 +19,7 @@ gulp.task('js', function(){
 });
 
 //FAZER O SASS E O SERVIDOR FUNCIONAREM - APONTAR UMA FUNÇÃO PARA QUE SEMPRE COMPILE OS ARQUIVOS
+// "WATCH SASS" - COMPILADOR?
 gulp.task('serve', ['sass'], function(){
 	browserSync.init({
 		server: "./src"
