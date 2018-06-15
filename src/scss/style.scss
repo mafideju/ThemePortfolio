@@ -38,15 +38,12 @@ body{
 	}
 }
 #main-footer{
-	.mais-esquerda{
-		// margin-left: -5rem;
-	}
 	.botao-download{
-		margin: 3rem 0 0 26rem;
+		margin: 3rem 0 0 40rem;
 	}
 	.frase-rodape{
 		margin-top:1.8rem;
-		margin-left:26.5rem;
+		margin-left:39.5rem;
 	.letras-espacos{
 		letter-spacing:2px;
 	}
@@ -64,18 +61,18 @@ body{
 	#main-footer{
 		.botao-download{
 			margin-top:2.75rem;
-			margin-left:12rem;
+			margin-left:25rem;
 			i{
 				font-size:1.5rem;
 			}
 		}
 		.frase-rodape{
-			margin-left:13rem;
+			margin-left:25rem;
 		}
 	}
 }
 
-@media(max-width:1366px){
+@media(max-width:1500px){
 	#main-footer{
 		.botao-download{
 			margin-top:2.75rem;
