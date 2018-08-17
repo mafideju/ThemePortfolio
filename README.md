@@ -1,11 +1,9 @@
+NÃ£o precisa de instalaÃ§Ã£o. Todos os arquivos estÃ£o no clone.
 
-Arquivos criados sob a instrução de Brad Traversy da Traversy Media para o curso de 
-'Bootstrap 4 from Scratch' na 'Udemy.com'.
+Entre em contato atravÃ©s do email >> mafideju@outlook.com  <<
 
-Entre em contato através do email >> mafideju@outlook.com  <<
-
-Todo o código foi digitado de acordo com as instruções dadas em aula, usando lorem ipsum e idioma inglês, 
-posteriormente traduzidos para português com adição de textos e imagens livres.
+Todo o cÃ³digo foi digitado de acordo com as instruÃ§Ãµes dadas em aula, usando lorem ipsum e idioma inglÃªs, 
+posteriormente traduzidos para portuguÃªs com adiÃ§Ã£o de textos e imagens livres.
 
 
 
